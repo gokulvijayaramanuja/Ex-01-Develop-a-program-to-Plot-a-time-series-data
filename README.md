@@ -1,4 +1,4 @@
-# Ex 01 Develop a program to Plot a time series data.
+# Ex 01 Develop a program to Plot a time series data (population/ market price of a commodity /temperature .
 ## AIM:
 To Write a Program to Plot a timeseries data market price of a commodity
 
@@ -41,3 +41,7 @@ mean=df.Close.resample('Y').mean().plot(kind="bar")
 ![261832342-6ec20103-4a67-40b8-9eb6-c61b009db030](https://github.com/gokulvijayaramanuja/Ex-01-Develop-a-program-to-Plot-a-time-series-data/assets/119577543/e293781e-9b30-43c0-ab15-31350c493bc4)
 
 ### Yearly Graph
+![261832269-e34d281f-9228-443b-a413-dd7973a20966](https://github.com/gokulvijayaramanuja/Ex-01-Develop-a-program-to-Plot-a-time-series-data/assets/119577543/d76fbbc3-605c-4641-9e2e-7c289b480616)
+
+## Result:
+Thus the program to implement to Plot a timeseries data market price of a commodity is written and verified using python programming.
